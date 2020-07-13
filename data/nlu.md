@@ -55,3 +55,53 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:place_order
+- menu?
+- food
+- I am hungry
+- hunger
+- I want to place an order
+- I want to eat
+- I want something to eat
+- can I see the menu?
+- what is the best thing to eat?
+- what would you recommend?
+- I can't decide
+- I don't know what to choose
+
+## intent:check_status
+- where is my order?
+- my delivery is taking too long
+- where is the delivery?
+- how much time will it take?
+- time?
+- status?
+- where is it?
+- how long will it take?
+- how far is my order?
+- my order is taking too long?
+- how much time will it take?
+- where is the deivery associate?
+
+## intent:customer_support
+- I need help
+- I need to speak to someone
+- my problem not resolved
+- not satisfied
+- need assistance
+- support
+- food has problems
+- broken
+- torn
+- help me
+- bad quality
+- replacement
+- reorder
+- I want to talk
+- cancel my order
+- change order
+- I have a issue
+- not solved
+
+
